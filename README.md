@@ -8,8 +8,8 @@
 - CINDER_PASS: openstack cinder用户密码
 - MY_IP: my_ip
 # volumes:
-- /opt/openstack/designate-api/: /etc/designate
-- /opt/openstack/log/designate-api/: /var/log/designate/
+- /opt/openstack/cinder-scheduler/: /etc/cinder-scheduler
+- /opt/openstack/log/cinder-scheduler/: /var/log/cinder-scheduler/
 
 # 启动cinder-scheduler
 ```bash
