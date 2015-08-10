@@ -1,6 +1,6 @@
 # 环境变量
-- CINDER_DB: designate数据库ip
-- CINDER_DBPASS: designate数据库密码
+- CINDER_DB: cinder数据库ip
+- CINDER_DBPASS: cinder数据库密码
 - RABBIT_HOST: rabbitmq IP
 - RABBIT_USERID: rabbitmq user
 - RABBIT_PASSWORD: rabbitmq user 的 password
